@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adila Mebrek
 - 👀 I’m currently working on learning about AI along with Python. 
 - 💞️ You can ask me about Azure and solution Architecture
-- - 📫 How to reach me ...
+-  📫 How to reach me here
 
 <!---
 adilamebrekcomdev/adilamebrekcomdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
